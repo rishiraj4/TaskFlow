@@ -340,10 +340,7 @@
 
             saveTodos() {
                 try {
-                    // For deployment, we'll use in-memory storage
-                    // In a real environment with localStorage, use:
-                    // localStorage.setItem('todos', JSON.stringify(this.todos));
-                    this.storedTodos = JSON.stringify(this.todos);
+                    localStorage.setItem('todos', JSON.stringify(this.todos));
                 } catch (error) {
                     console.error('Error saving todos:', error);
                 }
@@ -351,10 +348,7 @@
 
             loadTodos() {
                 try {
-                    // For deployment, we'll use in-memory storage
-                    // In a real environment with localStorage, use:
-                    // const saved = localStorage.getItem('todos');
-                    const saved = this.storedTodos;
+                    const saved = localStorage.getItem('todos');
                     return saved ? JSON.parse(saved) : [];
                 } catch (error) {
                     console.error('Error loading todos:', error);
