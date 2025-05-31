@@ -11,7 +11,7 @@ A modern, responsive to-do application built with vanilla JavaScript, HTML, and 
 - 🎨 Modern UI with animations
 
 ## Live Demo
-[View Live Demo]([https://yourusername.github.io/javascript-todo-app/])
+[View Live Demo](https://yourusername.github.io/javascript-todo-app/)
 
 ## Technologies Used
 - HTML5
