@@ -59,8 +59,9 @@ Key highlights:
    git clone https://github.com/your-username/taskflow.git
 2. Navigate to project directory
 
+```sh
 cd taskflow
-
+```
 3. Open index.html in your browser
 Usage
 
