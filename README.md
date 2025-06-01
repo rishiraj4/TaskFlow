@@ -106,4 +106,4 @@ Distributed under the MIT License. See LICENSE for more information.
 ### Contact
 rishiraj.n-26@scds.saiuniversity.edu.in
 
-Project Link: https://rishiraj4.github.io/Todo_App/
+Project Link: https://rishiraj4.github.io/TaskFlow/
