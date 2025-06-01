@@ -64,7 +64,9 @@ Key highlights:
    ```sh
    git clone https://github.com/your-username/taskflow.git
 2. Navigate to project directory
+
 cd taskflow
+
 3. Open index.html in your browser
 Usage
 
@@ -77,7 +79,9 @@ Usage
 ### Managing Tasks
 
 ✔️ Check the checkbox to mark as complete
+
 ✏️ Click the edit button to modify a task
+
 🗑️ Click the delete button to remove a task
 
 ### View Options
