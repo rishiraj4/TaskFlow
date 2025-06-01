@@ -68,7 +68,9 @@ Usage
 ### Adding Tasks
 
 1.Type your task in the input field
+
 2.Click "Add Magic" or press Enter
+
 3.Use quick-add buttons for common tasks
 
 ### Managing Tasks
@@ -103,4 +105,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
 rishiraj.n-26@scds.saiuniversity.edu.in
+
 Project Link: https://rishiraj4.github.io/Todo_App/
