@@ -31,12 +31,6 @@ Key highlights:
 | 📱 Responsive Design | Works on all device sizes |
 | 🎛️ View Toggle | Switch between list and grid layouts |
 
-## Demo
-
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://your-demo-link.com) *(Add your actual demo link)*
-
-![TaskFlow Demo GIF](https://i.imgur.com/your-demo-gif.gif) *(Add your actual demo GIF)*
-
 ## Tech Stack
 
 **Frontend:**
@@ -107,5 +101,5 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
-Your Name - rishiraj.n-26@scds.saiuniversity.edu.in
+rishiraj.n-26@scds.saiuniversity.edu.in
 Project Link: https://rishiraj4.github.io/Todo_App/
